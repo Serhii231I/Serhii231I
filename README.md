@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Serhii Ivashchenko</h1>
 <h3 align="center">A passionate Full-Stack Developer based in Norway</h3>
+<h2 align="center">About me</h2>
+
+<h3 align="center">I am a recent Fullstack Developer graduate, skilled in HTML, CSS, JavaScript, React, TypeScript, and Node.js. I have completed practical projects and gained experience in building responsive web applications using modern tools and Agile/Scrum practices. I am highly motivated to begin my career as a Fullstack Developer, enthusiastic to learn new technologies, solve real-world problems, and contribute to a professional development team.</h3>
+<h2 align="center">Tech stack</h2>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serhii231i&label=Profile%20views&color=0e75b6&style=flat" alt="serhii231i" /> </p>
 
