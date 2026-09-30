@@ -6,7 +6,6 @@
 <h2 align="center">Tech stack</h2>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=serhii231i&label=Profile%20views&color=0e75b6&style=flat" alt="serhii231i" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
